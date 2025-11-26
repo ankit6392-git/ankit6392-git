@@ -3,6 +3,8 @@
 <h1 align="center">Hi 👋, I'm Ankit Rajput</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=ankit6392-git&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ankit6392-git&label=Profile%20views&color=0e75b6&style=flat" alt="ankit6392-git" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ankit6392-git" alt="ankit6392-git" /></a> </p>
